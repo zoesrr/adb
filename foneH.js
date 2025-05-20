@@ -1,0 +1,1 @@
+var adblockDetectorFoneH = true;
