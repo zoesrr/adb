@@ -1,1 +1,1 @@
-window.adblockDetectorFoneH = true;
+window.adblockDetectorAdGuardJapanese = true;
