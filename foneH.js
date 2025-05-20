@@ -1,1 +1,1 @@
-window.adblockDetectorFoneH = true;
+var adblockDetectorFoneH = true;
